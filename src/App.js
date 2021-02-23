@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My first app 1
+          My first app to test 1
         </a>
       </header>
     </div>
