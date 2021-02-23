@@ -1,10 +1,13 @@
-import "./App.css"
+import React from "react";
+import "./App.css";
+import { Stocks } from "./Stocks";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">My first app to test 12</header>
+      <Stocks />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
